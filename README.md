@@ -1,2 +1,2 @@
 # remote-717
-This is a reote repo for practising
+This is a remote repo for practising
